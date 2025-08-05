@@ -1,13 +1,13 @@
 ---
-title: Fraser Lab
+title: Arora Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the Arora Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
+We are part of the [Department of Community, Engagement & Policy](https://publichealth.arizona.edu/departments/community-environment-policy), the [Southwest Center on Resilience for Climate Change and Health (SCORCH)](https://scorch.arizona.edu/), and the [Mel and Enid Zuckerman College of Public Health](https://publichealth.arizona.edu/).
 {: .welcomefont}
 
 ![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
