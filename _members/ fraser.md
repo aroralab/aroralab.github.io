@@ -9,8 +9,7 @@ position: Principal Investigator
 pronouns: she/her/ella
 email: manand@arizona.edu
 linkedin: Mona Arora
-github: aroralab
-orcid:0000-0003-2330-6267
+orcid: 0000-0003-2330-6267
 description: "Dr. Mona Arora is an Assistant Research Professor at the College of Public Health. She obtained her Master of Science in Public Health (MSPH) degree in Tropical Medicine from the Tulane University School of Tropical Medicine & Hygiene and has a doctorate degree in Geography from the University of Arizona.
 
 Dr. Arora currently leads the ADHS-CDC COVID Disparities Initiative at the Arizona Center for Rural Health aimed at mobilizing partnerships to advance health equity & address social determinants of health-related to COVID-19 health disparities among higher risk and underserved populations. In addition, she has been an active member of the University’s COVID-19 response efforts and continues to support pandemic response and recovery planning.
