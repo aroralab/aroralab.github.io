@@ -2,8 +2,8 @@
 name: Imran Hossain Mithu, MPH.
 startdate: [2024-01-01]
 enddate: []
-image: /static/img/members/asthana.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/asthana_pb.jpg #365 x 365 pixels, 72 dpi
+image: /static/img/members/Imran Mithu.png #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/Imran Mithu.png #365 x 365 pixels, 72 dpi
 position: Graduate Student 
 #subsequent:  update once you become an alumnus
 pronouns: he/his/him #personal pronouns
