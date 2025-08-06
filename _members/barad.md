@@ -1,5 +1,5 @@
 ---
-name: Benjamin Barad, Ph.D.
+name: Ozlem Erol   
 startdate: [2014-09-01]
 enddate: [2019-07-29]
 image: /static/img/members/Ozlem.jpg
